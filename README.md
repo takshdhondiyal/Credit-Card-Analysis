@@ -1,5 +1,7 @@
 # Credit-Card-Analysis
 
+Analysis of a dataset provided by a Credit_card company
+
 **Objective**
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
